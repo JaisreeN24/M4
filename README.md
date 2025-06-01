@@ -63,7 +63,8 @@ int main() {
     return 0;
 }
 ## OUTPUT
-           ![image](https://github.com/user-attachments/assets/8fdbfdb9-f66a-448a-ad1e-13d063fca536)
+
+![image](https://github.com/user-attachments/assets/73cedd12-6569-4245-8013-bf98e82b60b0)
 
 ## RESULT
 
